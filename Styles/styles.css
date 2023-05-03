@@ -1,0 +1,22 @@
+h1{
+    color: wheat;
+    text-shadow: 3px 3px 5px rgb(239, 239, 245);
+    margin-top: 2%;
+    font-size: 45px;
+    font-family: cursive;
+}
+
+p{
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 3px 3px 5px rgb(10, 6, 248);
+}
+
+.caja{
+    width: 50%;
+    height: 98%;
+    background: black;
+    border-radius: 5vh;
+    box-shadow: 10px 10px 10px 10px violet;
+    background-image: url(https://w0.peakpx.com/wallpaper/822/5/HD-wallpaper-money-always-iphone-iphone-iphone-dragon-iphone-japanese-iphone-dragon-artwork-black-and-gray-dragon.jpg);
+}
